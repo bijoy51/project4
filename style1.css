@@ -120,12 +120,6 @@ hr{
     column-gap: 5px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-.footer_item_1{
-    background-color: antiquewhite;
-}
-.footer_item_3{
-    background-color: aquamarine;
-}
 .footer_item_2 ul{
     list-style-type: none;
 }
@@ -133,9 +127,6 @@ hr{
     display: flex;
     align-items: center;
     margin-bottom: 10px;
-}
-.footer_item_2 ul li:hover{
-    background-color: rgb(192, 192, 192);
 }
 .footer_item_2 ul li img{
     width: 50px;
